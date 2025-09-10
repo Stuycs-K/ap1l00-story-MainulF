@@ -39,4 +39,7 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 - This is edit one
 
 # 2 
-- This is edit two! 
+- This is edit two!
+
+# 3 
+- This is the third and final edit!
